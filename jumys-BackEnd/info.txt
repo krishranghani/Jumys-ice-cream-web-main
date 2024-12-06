@@ -1,0 +1,65 @@
+
+ ||  : NODE JS INSTALLATION :  ||
+
+- npm init   OR   npm init-y
+
+- npm i nodemon 
+
+- npm i express 
+
+- npm i mongoose
+
+- npm i dotenv 
+
+- npm i jsonwebtoken
+
+- npm i bcrypt 
+
+- npm i morgan
+
+- npm i multer
+
+
+- run command  - npm run dev
+
+
+- API's 
+
+ ||  : login page : ||
+
+- || Admin || 
+
+- registerAdmin -  http://localhost:7410/api/admin/login/register-admin
+
+- loginAdmin - http://localhost:7410/api/admin/login/login-admin
+
+- getUser - http://localhost:7410/api/admin/login/get-admin
+
+- getAllUsers - http://localhost:7410/api/admin/login/get-all-admin
+
+- updateUser - http://localhost:7410/api/admin/login/update-admin
+
+- deleteUser - http://localhost:7410/api/admin/login/delete-admin
+
+- logout admin - http://localhost:7410/api/admin/login/logout-admin
+
+- update password - http://localhost:7410/api/admin/login/update-password
+
+
+- || User || 
+
+- registerUser -  http://localhost:7410/api/user/login/register
+
+- loginUser - http://localhost:7410/api/user/login/login-user
+
+- getUser - http://localhost:7410/api/user/login/get-user
+
+- getAllUsers - http://localhost:7410/api/user/login/get-all-user
+
+- updateUser - http://localhost:7410/api/user/login/update-user
+
+- updatePassword - http://localhost:7410/api/user/login/update-password
+
+- deleteUser - http://localhost:7410/api/user/login/delete-user
+
+- logoutUser - http://localhost:7410/api/user/login/logout-user
