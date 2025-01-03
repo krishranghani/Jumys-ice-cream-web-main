@@ -37,3 +37,18 @@ Need improvement
 
 * Contact  page = send message - BackEnd side
 
+
+
+html auto tag 
+
+open setting 
+
+"emmet.includeLanguages": {
+     "javascript": "javascriptreact"
+ },
+ "emmet.syntaxProfiles": {
+     "javascript": "jsx"
+ }
+
+ add this 
+ 
